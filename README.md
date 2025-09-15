@@ -1,20 +1,10 @@
-### Visitors Count
- ![Visitor Count](https://profile-counter.glitch.me/sencin/count.svg)
- 
-<div align="center">
-  <img src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF">
-</div>
-
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sencin&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sencin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" />
 </p>
-
 <br>
 
 <p align="center">
