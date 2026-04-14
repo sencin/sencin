@@ -2,14 +2,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sencin&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sencin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" />
-</p>
+</p> -->
 <br>
+<div align="center">
+  <p><strong>My Portfolio:</strong> <a href="https://test.pages.dev](https://zeroportfolio.pages.dev">Visit</a></p>
+</div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=9&row=9" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
-</p>
+</p> -->
 
 <div align="center">
   <table>
