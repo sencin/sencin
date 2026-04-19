@@ -10,6 +10,8 @@
   <p><strong>My Portfolio:</strong> <a href="[https://zeroportfolio.pages.dev](https://zeroportfolio.pages.dev">https://zeroportfolio.pages.dev</a></p>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sencin&label=Profile%20views&color=0e75b6&style=flat" alt="sencin" /> </p>
+
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=9&row=9" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
 </p> -->
