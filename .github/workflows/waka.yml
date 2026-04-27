@@ -1,17 +1,22 @@
 name: Waka Readme
 
 on:
+  push:
+    branches: ["main"]   # 🔥 run when you push
   schedule:
-    - cron: "0 0 * * *" # daily
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # daily
+  workflow_dispatch:     # manual run
 
 jobs:
   update-readme:
     name: Update README with WakaTime
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: anmol098/waka-readme-stats@master
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README with Waka stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
