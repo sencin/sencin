@@ -6,15 +6,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sencin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" />
 </p> -->
 <br>
-<div align="center">
-  <p><strong>My Portfolio:</strong> <a href="[https://zeroportfolio.pages.dev](https://zeroportfolio.pages.dev">https://zeroportfolio.pages.dev</a></p>
-</div>
+<br>
+
+<h2 align="center">⏱️ Weekly Coding Stats</h2>
+
+<p align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sencin&label=Profile%20views&color=0e75b6&style=flat" alt="sencin" /> </p>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=9&row=9" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
-</p> -->
+</p> 
 
 <div align="center">
   <table>
