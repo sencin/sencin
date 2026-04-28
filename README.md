@@ -1,11 +1,11 @@
-<!-- 🐍 Snake Animation -->
+<!-- Snake Animation -->
 <p align="center">
   <img width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 </p>
 
 <br>
 
-<!-- 📊 Stats Section -->
+<!-- Stats Section -->
 <div align="center">
 
 <table>
@@ -27,19 +27,13 @@
 
 <br>
 
-<!-- ⏱️ WakaTime -->
 <div align="center">
 
-<h3>⏱️ Wakatime Coding Stats</h3>
+<h3>Wakatime Coding Stats</h3>
 
 <pre>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 </pre>
@@ -48,7 +42,7 @@ No activity tracked
 
 <br>
 
-<!-- 👀 Profile Views + 🏆 Trophies -->
+<!-- Profile Views + Trophies -->
 <div align="center">
 
 <table>
@@ -70,29 +64,25 @@ No activity tracked
 
 <br>
 
-<!-- 🧰 Tech Stack -->
+<!--  Tech Stack -->
 <div align="center">
 
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=solidity,c,cpp,php,bash,js" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=java,c,flutter,php,bash,js" height="40"/></td>
 </tr>
 
 <tr>
 <td><b>Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=vue,nuxt,nextjs,laravel,arduino" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=vue,react,spring,laravel" height="40"/></td>
 </tr>
 
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=express,firebase,supabase" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=express,spring" height="40"/></td>
 </tr>
 
-<tr>
-<td><b>AI / ML</b></td>
-<td><img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" height="40"/></td>
-</tr>
 
 <tr>
 <td><b>Databases</b></td>
@@ -101,7 +91,7 @@ No activity tracked
 
 <tr>
 <td><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" height="30"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,cloudflare,maven,vscode,debian" height="40"/></td>
 </tr>
 </table>
 
