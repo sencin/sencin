@@ -29,17 +29,8 @@
 
 <div align="center">
 
-<h3>Wakatime Coding Stats</h3>
-
 <pre>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 </pre>
 
@@ -75,17 +66,17 @@ No activity tracked
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,c,flutter,php,bash,js" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=java,c,dart,php,bash,js" height="40"/></td>
 </tr>
 
 <tr>
 <td><b>Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=vue,react,spring,laravel" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=vue,react,flutter,spring,laravel" height="40"/></td>
 </tr>
 
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=express,spring" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=express,spring,laravel" height="40"/></td>
 </tr>
 
 
